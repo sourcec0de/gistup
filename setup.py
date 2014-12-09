@@ -5,7 +5,7 @@ desc = ('A command line utility for publishing a directory and '
 
 setup(name='gist-up',
       packages=['gist-up'],
-      version='0.1',
+      version='0.2',
       description=desc,
       author='James R. Qualls',
       author_email='qualls.james@gmail.com',
