@@ -14,7 +14,7 @@ setup(name='gist-up',
       scripts=['bin/gistup'],
       install_requires=[
           'PyGithub==1.25.2',
-          'PyYAML==3.11',
+          'PyYAML==5.1',
           'argparse==1.2.2',
           'termcolor==1.1.0'
       ],
